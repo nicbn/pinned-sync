@@ -4,6 +4,7 @@ version = "0.0.1"
 authors = ["nicbn"]
 edition = "2018"
 readme = "README.md"
+description = "This crate implements pinned synchronization primitives."
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/nicbn/pinned-sync"
 
