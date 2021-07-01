@@ -1,0 +1,16 @@
+[package]
+name = "pinned_sync"
+version = "0.0.1"
+authors = ["nicbn"]
+edition = "2018"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+cfg-if = "1"
+
+[target.'cfg(unix)'.dependencies]
+libc = "0.2"
+
+[dev-dependencies]
+rand = "0.8"
