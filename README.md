@@ -1,5 +1,7 @@
 # Pinned synchronization primitives for Rust
 
+[![crates.io](https://img.shields.io/crates/v/pinned_sync.svg)](https://crates.io/crates/pinned_sync)
+
 This crate implements [pinned synchronization primitives](https://github.com/rust-lang/rfcs/pull/3124).
 
 ## Limitations
