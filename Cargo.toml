@@ -5,6 +5,7 @@ authors = ["nicbn"]
 edition = "2018"
 readme = "README.md"
 license = "MIT OR Apache-2.0"
+repository = "https://github.com/nicbn/pinned-sync"
 
 [dependencies]
 cfg-if = "1"
